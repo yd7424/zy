@@ -298,11 +298,11 @@
       "filterable": 0,
       "changeable": 0
     },
-    { 
-       "key": "drpy/5X社区.js", 
-       "name": "5X社区.js", 
+       { 
+       "key": "社区.js", 
+       "name": "社区.js", 
        "type": 3, 
-       "api":"https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/js/lib/drpy2.min.js",
+       "api":"https://gh.catmak.name/https://github.com/yd7424/zy/blob/main/tv/js/5278.js"},
     {
       "key": "drpy/5X社区.js",
       "name": "5X社区.js",
