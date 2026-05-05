@@ -5,7 +5,7 @@
   
   // 1. 分类板块（新增）
   "category": {
-    "url": "https://jpm.yzfnb2.makeup/cn/home/web/index.php/vod/{cateId}--------{page}---.html",
+    "url": "https://jpm.yzfnb2.makeup/cn/home/web/index.php/vod/type/id/{cateId}--------{page}---.html",
     "arrays": "div.module-item",
     "title": "a&&title",
     "cover": "img&&data-src",
